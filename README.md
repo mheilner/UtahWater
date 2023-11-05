@@ -4,4 +4,4 @@ Machine Learning and Data Analysis Project centered around Utah's water demands 
 
 Useful Links:
 
-- (Traditional Weather Forecasting vs. ML Model Driven Forecasting )[https://www.akkio.com/post/weather-prediction-using-machine-learning]
+- [Traditional Weather Forecasting vs. ML Model Driven Forecasting](https://www.akkio.com/post/weather-prediction-using-machine-learning)
